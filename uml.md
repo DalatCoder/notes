@@ -23,3 +23,29 @@ Tools and prerequisites
 
 - Beginner-friendly
 - staruml.io
+
+## Traditional and Agile software development
+
+### What are software development methodologies?
+
+There are different ways to develop a software system.
+Sure, you can just sit down and start typing source code.
+This works until, well, it doesn't. For anything more complicated than a "Hello world" app, you will need
+a way to organize your work.
+And if you're not working alone, the lack of a reasonably well defined process is going to lead to
+chaos.
+
+As the complexity of a project and the number of involved people increases, the need for a development
+process becomes more and more prevalent.
+Different approaches have been invented to solve this situation.
+We're going to talk about two of the most popular development methodologies, namely: The Waterfall model,
+which requires you to have a detailed plan before starting any coding.
+The requirements need to be fixed, so no changes are expected during development.
+And the second one is the change friendly, responsive, Agile approach, which works great for projects
+where the expectations can change rapidly and frequently.
+
+Now, before we dive into these methodologies, I must tell you one thing.
+None of these systems can precisely describe every step of the software development process, but we
+definitely need them to synchronize and organize our development related activities - activities that
+include not only coding, but also design, product management, budgeting, testing, documentation,
+release and maintenance.
