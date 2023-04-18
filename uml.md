@@ -226,4 +226,24 @@ The larger user stories are known as `epics`.
 
 UML diagrams: standard graphical notation used to describe object-oriented systems.
 
+## UML basics and fundamental diagram types
+
+### What's UML?
+
+Understanding a software system just by looking at its source code can be very time consuming. And communicating
+ideas about software design or business processes is even more challenging if there is no commonly accepted
+way to do it.
+
+The Unified Modeling Language (UML) was introduced to solve this problem. UML is a graphical notation used to communicate the
+design of software systems.
+We can use these diagrams to describe the objects that form a system and their interactions.
+
+UML has many diagram types, some common ones:
+
+- use-case diagram: functional
+- class diagram: structure
+- sequence diagram: dynamic behavior
+
+The best part about UML is that it's independent of any particular programming language.
+
 
