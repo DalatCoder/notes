@@ -1,7 +1,7 @@
 
 # Uml and Object-Oriented Design Foundations
 
-[Course](https://udemy.com/course/uml-and-object-oriented-design-foundations)
+<a href="https://udemy.com/course/uml-and-object-oriented-design-foundations" target="_blank">Course</a>
 
 Why study UML?
 
