@@ -18,3 +18,8 @@ UML course overview
 - UML basics
 - Fundamental diagram types
 - Case study: designing a note taking app
+
+Tools and prerequisites
+
+- Beginner-friendly
+- staruml.io
