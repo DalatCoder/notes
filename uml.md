@@ -1,6 +1,8 @@
 
 # Uml and Object-Oriented Design Foundations
 
+[Course](https://udemy.com/course/uml-and-object-oriented-design-foundations)
+
 Why study UML?
 
 - Mastering a programming language is not enough
@@ -23,6 +25,13 @@ Tools and prerequisites
 
 - Beginner-friendly
 - staruml.io
+
+## Some programming terms:
+
+- Spaghetti code: complicated, difficult to understand and maintain
+- Variable: value with a type identified using a name
+- Data structure: a way of organizing data in a computer program
+- 
 
 ## Traditional and Agile software development
 
@@ -49,3 +58,38 @@ None of these systems can precisely describe every step of the software developm
 definitely need them to synchronize and organize our development related activities - activities that
 include not only coding, but also design, product management, budgeting, testing, documentation,
 release and maintenance.
+
+### The waterfall model
+
+### The agile approach
+
+## Core object orientation concepts
+
+### A brief history of programming
+
+Programming paradigms:
+
+- 1950: non-structured programming
+  - sequentially ordered instructions
+  - numbered code lines
+
+```sinclair
+10 PRINT "Fahrenheit", "Celsius"
+20 PRINT
+30 INPUT "Enter degree F", F
+40 PRINT F, (F-32) * 5/9
+50 GO TO 30
+```
+
+- 1960: structured programming
+  - logical steps
+  - relies on subroutines: contain a set of instructions to be carried out
+  - improves code readability
+  - reduces development time
+
+- 1980: object oriented programming
+  - split apart the program into self-contained objects
+  - an object acts as a program
+  - an object operates on its own data
+  - each object interacts with other objects
+
