@@ -93,3 +93,54 @@ Programming paradigms:
   - an object operates on its own data
   - each object interacts with other objects
 
+### Objects
+
+- OOP is organized around objects
+- properties
+- identity: their own state
+- behavior: their own behavior
+
+### Classes
+
+We need a class to create objects. The class is the blueprint of an object.
+You can think of a class as a plan, a description of what an object will be.
+
+class:
+- name
+- properties
+- methods
+
+### Abstraction
+
+Abstraction is a way of describing complex problems in simple terms by ignoring some details. It helps
+us focus on the bigger picture. We can dig deeper once we have a broder understanding.
+
+### Encapsulation and data hiding
+
+Data hiding: avoid exposing the inner workings of our objects.
+
+When designing your classes, expose only as much detail as needed.
+
+Data hiding plays an essential role in keeping the dependencies between objects to a minimum.
+A tightly-coupled system, with most of the objects depending on each other is an obvious 
+sign of a bad design. Updating or maintaning such a system is a pain.
+Any tiny modification will cascade down and require you to change other parts
+of the system, too.
+
+### Inhertitance
+
+Code reuse.
+
+Object orientation is about granularity and separation of concerns.
+Each class should focus on a set of specific functionalities and do that well.
+Creating one-size-fits-all monolithic classes is a major mistake and object-oriented software development.
+
+### Polymorphism
+
+- polys: many, much
+- morphe: form, shape
+
+polymorphism: the condition of occurring in several different forms
+
+Method overriding: subclasses can provide a specialized implementation of a method defined in the superclass.
+
